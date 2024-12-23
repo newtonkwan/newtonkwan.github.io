@@ -23,9 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Newton Kwan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username: newtonkwan
-# twitter_username: newton_kwan
-# linkedin_username: newtonkwan
+
 
 # Build settings
 theme: minima
@@ -36,6 +34,14 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+
+navigation:
+  - title: "About"
+    url: "/about/"
+  - title: "Bookshelf"
+    url: "/bookshelf/"
+  - title: "Personal"
+    url: "/personal/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
