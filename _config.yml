@@ -20,17 +20,22 @@
 
 title: Newton Kwan
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for Newton Kwan
+  Personal website for Newton Kwan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: newtonkwan
-twitter_username: newton_kwan
-linkedin_username: newtonkwan
+# github_username: newtonkwan
+# twitter_username: newton_kwan
+# linkedin_username: newtonkwan
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Font Awesome (for social icons)
+markdown: kramdown
+kramdown:
+  input: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
