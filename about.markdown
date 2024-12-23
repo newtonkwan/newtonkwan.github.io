@@ -25,6 +25,7 @@ I want to help develop artificial intelligence to solve important problems.  Pr
 
 ## Contact
 Email: nk at 2398.com  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <div>
   <a href="https://twitter.com/newton_kwan" target="_blank" style="color: black;"><i class="fab fa-twitter fa-2x"></i></a>
   <a href="https://linkedin.com/in/newtonkwan" target="_blank" style="color: black;"><i class="fab fa-linkedin fa-2x"></i></a>
