@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# HOW TO RUN LOCALLY 
+# run this command: bundle exec jekyll serve --livereload 
+
 title: Newton Kwan
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Newton Kwan
@@ -42,7 +45,8 @@ navigation:
     url: "/bookshelf/"
   - title: "Personal"
     url: "/personal/"
-
+  # - title: "Western Canon"
+  #   url: "/wcanon/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
