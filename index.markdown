@@ -5,10 +5,7 @@
 layout: home
 ---
 # Welcome
-Hi, this is Newton. I document my learnings here. Think of it as marathon training but for the brain.   
-
-
-
+Hi, this is Newton. I document my learnings here. If you like what I do, please reach out! 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
