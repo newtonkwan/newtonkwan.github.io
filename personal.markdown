@@ -3,7 +3,7 @@ layout: page
 title: Personal
 permalink: /personal/
 ---
-Last Updated: Dec. 22, 2024
+Last Updated: Jan. 10, 2025
 
 <br>
 <div style="text-align: center;">
@@ -11,7 +11,7 @@ Last Updated: Dec. 22, 2024
 </div>  
 <br>
 
-Outside of school, family, and friends, you will find me pursuing or thinking about some of my other interests.  Whatever it may be, I'm typically eager to philosophize about it and think deeply about its place in a life well lived. I am eternally grateful to those important people, especially to my parents, who instilled in me some of these passions and allowed me the freedom to pursue them. 
+Outside of work, family, and friends, you will find me pursuing or thinking about some of my other interests.  Whatever it may be, I'm typically eager to philosophize about it and think deeply about its place in a life well lived. I am eternally grateful to those important people, especially to my parents, who instilled in me some of these passions and allowed me the freedom to pursue them. 
 
 ### Music
 
