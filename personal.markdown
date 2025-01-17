@@ -11,7 +11,7 @@ Last Updated: Jan. 10, 2025
 </div>  
 <br>
 
-Outside of work, family, and friends, you will find me pursuing or thinking about some of my other interests.  Whatever it may be, I'm typically eager to philosophize about it and think deeply about its place in a life well lived. I am eternally grateful to those important people, especially to my parents, who instilled in me some of these passions and allowed me the freedom to pursue them. 
+Outside of work, family, and friends, you will find me pursuing or thinking about some of my other interests.  Whatever it may be, I'm typically eager to philosophize about it and think deeply about its place in a life well lived. I am grateful to those important people who instilled in me some of these passions and allowed me the freedom to pursue them. 
 
 ### Music
 
