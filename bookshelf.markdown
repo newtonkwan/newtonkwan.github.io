@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-Last Updated: Jan. 16, 2024
+Last Updated: Jan. 16, 2025
 
 Below are some books I like but is by no means comprehensive. To see that and what I'm currently reading, check out my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). 
 
