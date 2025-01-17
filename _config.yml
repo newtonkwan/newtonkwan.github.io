@@ -41,10 +41,10 @@ kramdown:
 navigation:
   - title: "About"
     url: "/about/"
+  - title: "Reading"
+    url: "/reading/"
   - title: "Western Canon"
     url: "/westerncanon/"
-  - title: "Books"
-    url: "/books/"
   - title: "Personal"
     url: "/personal/"
 # Exclude from processing.

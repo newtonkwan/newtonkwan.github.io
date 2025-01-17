@@ -3,7 +3,7 @@ layout: page
 title: Personal
 permalink: /personal/
 ---
-Last Updated: Jan. 10, 2025
+Last Updated: Jan. 16, 2025
 
 <br>
 <div style="text-align: center;">

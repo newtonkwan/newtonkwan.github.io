@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Bookshelf
-permalink: /books/
+permalink: /reading/
 ---
 
 Last Updated: Jan. 16, 2025
 
-Below are some books I like but is by no means comprehensive. To see that and what I'm currently reading, I occasionally update my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). See my progress on the [Western Canon](https://newtonkwan.com/westerncanon/).
+Below are some books I've read or like but is by no means comprehensive. To see that and what I'm currently reading, I occasionally update my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). There is almost always something in progress from the [Western Canon](https://newtonkwan.com/westerncanon/).
 
 Would highly recommend (*)
 - Exhalation: Stories by Ted Chiang*
