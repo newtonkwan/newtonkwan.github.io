@@ -44,7 +44,7 @@ Inspired by a profound sense of ignorance about the most important things in lif
 <br>
 
 ## Great Books
-<b>"Western Civilization is the civlization of the dialogue or the symposium, which is the great conversation in the great books about the great ideas." -- Mortimer Adler</b>
+<b>"Western Civilization is the civilization of the dialogue or the symposium, which is the great conversation in the great books about the great ideas." -- Mortimer Adler</b>
 <br>
 <details>
   <summary>The Great Books of the Western World</summary>
