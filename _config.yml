@@ -41,12 +41,12 @@ kramdown:
 navigation:
   - title: "About"
     url: "/about/"
-  - title: "Bookshelf"
-    url: "/bookshelf/"
+  - title: "Western Canon"
+    url: "/westerncanon/"
+  - title: "Books"
+    url: "/books/"
   - title: "Personal"
     url: "/personal/"
-  # - title: "Western Canon"
-  #   url: "/wcanon/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

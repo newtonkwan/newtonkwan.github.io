@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Bookshelf
-permalink: /bookshelf/
+permalink: /books/
 ---
 
 Last Updated: Jan. 16, 2025
 
-Below are some books I like but is by no means comprehensive. To see that and what I'm currently reading, check out my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). 
+Below are some books I like but is by no means comprehensive. To see that and what I'm currently reading, I occasionally update my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). See my progress on the [Western Canon](https://newtonkwan.com/westercanon).
 
 Would highly recommend (*)
 - Exhalation: Stories by Ted Chiang*
@@ -28,7 +28,7 @@ Would highly recommend (*)
 - The Hitchhiker's Guide to the Galaxy by Douglas Adams
 - Creativity, Inc. by Ed Catmull*
 - Abolition of Man by C.S. Lewis*
-- Lost in the cosmos by Walker Percy
+- Lost in the Cosmos by Walker Percy
 - Laurus by Eugene Vodolazkin
 - Talking to Strangers by Malcolm Gladwell
 - How to by Randall Munroe
