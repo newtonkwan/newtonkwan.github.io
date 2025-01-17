@@ -31,7 +31,7 @@ Last Updated: Jan. 16, 2025
   }
 </script>
 
-Inspired by a profound sense of ignorance about the most important things in life, I am documenting my participation in the great conversation in Western Civilization, so that I may understand where we have been and may then hopefully see more wisely and empathetically where we are and where we are going. 
+Inspired by my profound sense of ignorance about the most important things in life, this project chronicles my participation in the great conversation in Western Civilization, so that I may understand where we have been and may then hopefully understand more wisely and empathetically where we are and where we are going. 
 
 ## Great Ideas 
 <b>The ideas that are "the focal points of maximum human interest and importance in every era and epoch and in every generation are the great ideas." -- Mortimer Adler</b>. 
