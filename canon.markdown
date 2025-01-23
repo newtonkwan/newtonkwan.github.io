@@ -3,13 +3,12 @@ layout: page
 title: Western Canon
 permalink: /westerncanon/
 ---
-Last Updated: Jan. 16, 2025
+Last Updated: Jan. 22, 2025
 
 <style>
   .expandable {
     cursor: pointer;
-    color: black;
-    font-weight: bold;
+    /* color: black; */
   }
   .expandable:hover {
     color: darkred;
@@ -18,7 +17,57 @@ Last Updated: Jan. 16, 2025
     display: none;
     margin-top: 5px;
   }
+    .no-bullets {
+    list-style-type: none;
+    padding-left: 0;
+  }
+    table {
+    width: 100%;
+    table-layout: fixed;
+  }
+  table tr {
+    background-color: transparent !important; /* Ensure no background color */
+  }
+  .number-column {
+    width: 3%;
+    text-align: center;
+  }
+    .completed {
+    background-color: #ECFDF5 !important;
+  }
+  
+  
 </style>
+
+<script>
+  function toggleContent(id) {
+    var content = document.getElementById(id);
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+
+  // Example variable indicating completed rows
+  var completedIdeas = [1, 2, 3, 4, 5, 6, 7, 8, 101]; // Add the numbers of completed ideas here
+
+  document.addEventListener("DOMContentLoaded", function() {
+    var completedCount = completedIdeas.length;
+    var totalIdeas = 102;
+    var progressPercentage = (completedCount / totalIdeas) * 100;
+
+    document.getElementById('completed-count').innerText = completedCount;
+    document.getElementById('progress-bar').style.width = progressPercentage + '%';
+    
+    completedIdeas.forEach(function(ideaNumber) {
+      var row = document.getElementById("idea-" + ideaNumber);
+      if (row) {
+        row.classList.add("completed");
+      }
+    });
+  });
+</script>
 
 <script>
   function toggleContent(id) {
@@ -34,18 +83,145 @@ Last Updated: Jan. 16, 2025
 Inspired by my profound sense of ignorance about the most important things in life, this project chronicles my participation in the great conversation in Western Civilization, so that I may understand where we have been and may then hopefully understand more wisely and empathetically where we are and where we are going. 
 
 ## Great Ideas 
-<b>The ideas that are "the focal points of maximum human interest and importance in every era and epoch and in every generation are the great ideas." -- Mortimer Adler</b>. 
-<br>
+<div style="text-align: center;">
+  <p><em>The ideas that are "the focal points of maximum human interest and importance in every era and epoch and in every generation are the great ideas." -- Mortimer Adler</em></p>
+</div>
+
+  This section contains the 102 essays written by Mortimer Adler contained in the preface of each section of the Syntopicon, a two volume index billed as a guide to the most important ideas, and contained as part of the Great Books of the Western World collection.  In Adler's words, the ideas that are "the focal points of maximum human interest and importance in every era and epoch and in every generation are the great ideas." 
+
+<div style="text-align: center;"> 
+  <p style="font-size: 24px;">Completed: <span id="completed-count">0</span> / 102</p>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 25px;">
+    <div id="progress-bar" style="width: 0%; height: 30px; background-color: #4caf50; border-radius: 25px;"></div>
+  </div>
+</div>
+   
 <details>
-  <summary>Essays on the 102 Great Ideas</summary>
-  <p>Angel, Animal, Aristocracy, Art, Astronomy, Beauty, Being, Cause, Chance, Change, Citizen, Constitution, Courage, Custom and Convention, Definition, Democracy, Desire, Dialectic, Duty, Education, Element, Emotion, Eternity, Evolution, Experience, Family, Fate, Form, God, Good and Evil, Government, Habit, Happiness, History, Honor, Hypothesis, Idea, Immortality, Induction, Infinity, Judgment, Justice, Knowledge, Labor, Language, Law, Liberty, Life and Death, Logic, Love, Man, Mathematics, Matter, Mechanics, Medicine, Memory and Imagination, Metaphysics, Mind, Monarchy, Nature, Necessity and Contingency, Oligarchy, One and Many, Opinion, Opposition, Philosophy, Physics, Pleasure and Pain, Poetry, Principle, Progress, Prophecy, Prudence, Punishment, Quality, Quantity, Reasoning, Relation, Religion, Revolution, Rhetoric, Same and Other, Science, Sense, Sign and Symbol, Sin, Slavery, Soul, Space, State, Temperance, Theology, Time, Truth, Tyranny, Universal and Particular, Virtue and Vice, War and Peace, Wealth, Will, Wisdom, World.</p>
+  <summary>Essays on the 102 Great Ideas </summary>
+  
+ <table>
+    <!-- <tr id="idea-1">
+      <td class="number-column">1</td>
+      <td><span class="expandable" onclick="toggleContent('review-1')">Angel</span>
+        <div id="review-1" class="expandable-content">
+          <p>This is a review for Angel.</p>
+        </div>
+      </td>
+    </tr> -->
+    <tr id="idea-1"><td class="number-column">1</td><td>Angel</td></tr>
+    <tr id="idea-2"><td class="number-column">2</td><td>Animal</td></tr>
+    <tr id="idea-3"><td class="number-column">3</td><td>Aristocracy</td></tr>
+    <tr id="idea-4"><td class="number-column">4</td><td>Art</td></tr>
+    <tr id="idea-5"><td class="number-column">5</td><td>Astronomy</td></tr>
+    <tr id="idea-6"><td class="number-column">6</td><td>Beauty</td></tr>
+    <tr id="idea-7"><td class="number-column">7</td><td>Being</td></tr>
+    <tr id="idea-8"><td class="number-column">8</td><td>Cause</td></tr>
+    <tr id="idea-9"><td class="number-column">9</td><td>Chance</td></tr>
+    <tr id="idea-10"><td class="number-column">10</td><td>Change</td></tr>
+    <tr id="idea-11"><td class="number-column">11</td><td>Citizen</td></tr>
+    <tr id="idea-12"><td class="number-column">12</td><td>Constitution</td></tr>
+    <tr id="idea-13"><td class="number-column">13</td><td>Courage</td></tr>
+    <tr id="idea-14"><td class="number-column">14</td><td>Custom and Convention</td></tr>
+    <tr id="idea-15"><td class="number-column">15</td><td>Definition</td></tr>
+    <tr id="idea-16"><td class="number-column">16</td><td>Democracy</td></tr>
+    <tr id="idea-17"><td class="number-column">17</td><td>Desire</td></tr>
+    <tr id="idea-18"><td class="number-column">18</td><td>Dialectic</td></tr>
+    <tr id="idea-19"><td class="number-column">19</td><td>Duty</td></tr>
+    <tr id="idea-20"><td class="number-column">20</td><td>Education</td></tr>
+    <tr id="idea-21"><td class="number-column">21</td><td>Element</td></tr>
+    <tr id="idea-22"><td class="number-column">22</td><td>Emotion</td></tr>
+    <tr id="idea-23"><td class="number-column">23</td><td>Eternity</td></tr>
+    <tr id="idea-24"><td class="number-column">24</td><td>Evolution</td></tr>
+    <tr id="idea-25"><td class="number-column">25</td><td>Experience</td></tr>
+    <tr id="idea-26"><td class="number-column">26</td><td>Family</td></tr>
+    <tr id="idea-27"><td class="number-column">27</td><td>Fate</td></tr>
+    <tr id="idea-28"><td class="number-column">28</td><td>Form</td></tr>
+    <tr id="idea-29"><td class="number-column">29</td><td>God</td></tr>
+    <tr id="idea-30"><td class="number-column">30</td><td>Good and Evil</td></tr>
+    <tr id="idea-31"><td class="number-column">31</td><td>Government</td></tr>
+    <tr id="idea-32"><td class="number-column">32</td><td>Habit</td></tr>
+    <tr id="idea-33"><td class="number-column">33</td><td>Happiness</td></tr>
+    <tr id="idea-34"><td class="number-column">34</td><td>History</td></tr>
+    <tr id="idea-35"><td class="number-column">35</td><td>Honor</td></tr>
+    <tr id="idea-36"><td class="number-column">36</td><td>Hypothesis</td></tr>
+    <tr id="idea-37"><td class="number-column">37</td><td>Idea</td></tr>
+    <tr id="idea-38"><td class="number-column">38</td><td>Immortality</td></tr>
+    <tr id="idea-39"><td class="number-column">39</td><td>Induction</td></tr>
+    <tr id="idea-40"><td class="number-column">40</td><td>Infinity</td></tr>
+    <tr id="idea-41"><td class="number-column">41</td><td>Judgment</td></tr>
+    <tr id="idea-42"><td class="number-column">42</td><td>Justice</td></tr>
+    <tr id="idea-43"><td class="number-column">43</td><td>Knowledge</td></tr>
+    <tr id="idea-44"><td class="number-column">44</td><td>Labor</td></tr>
+    <tr id="idea-45"><td class="number-column">45</td><td>Language</td></tr>
+    <tr id="idea-46"><td class="number-column">46</td><td>Law</td></tr>
+    <tr id="idea-47"><td class="number-column">47</td><td>Liberty</td></tr>
+    <tr id="idea-48"><td class="number-column">48</td><td>Life and Death</td></tr>
+    <tr id="idea-49"><td class="number-column">49</td><td>Logic</td></tr>
+    <tr id="idea-50"><td class="number-column">50</td><td>Love</td></tr>
+    <tr id="idea-51"><td class="number-column">51</td><td>Man</td></tr>
+    <tr id="idea-52"><td class="number-column">52</td><td>Mathematics</td></tr>
+    <tr id="idea-53"><td class="number-column">53</td><td>Matter</td></tr>
+    <tr id="idea-54"><td class="number-column">54</td><td>Mechanics</td></tr>
+    <tr id="idea-55"><td class="number-column">55</td><td>Medicine</td></tr>
+    <tr id="idea-56"><td class="number-column">56</td><td>Memory and Imagination</td></tr>
+    <tr id="idea-57"><td class="number-column">57</td><td>Metaphysics</td></tr>
+    <tr id="idea-58"><td class="number-column">58</td><td>Mind</td></tr>
+    <tr id="idea-59"><td class="number-column">59</td><td>Monarchy</td></tr>
+    <tr id="idea-60"><td class="number-column">60</td><td>Nature</td></tr>
+    <tr id="idea-61"><td class="number-column">61</td><td>Necessity and Contingency</td></tr>
+    <tr id="idea-62"><td class="number-column">62</td><td>Oligarchy</td></tr>
+    <tr id="idea-63"><td class="number-column">63</td><td>One and Many</td></tr>
+    <tr id="idea-64"><td class="number-column">64</td><td>Opinion</td></tr>
+    <tr id="idea-65"><td class="number-column">65</td><td>Opposition</td></tr>
+    <tr id="idea-66"><td class="number-column">66</td><td>Philosophy</td></tr>
+    <tr id="idea-67"><td class="number-column">67</td><td>Physics</td></tr>
+    <tr id="idea-68"><td class="number-column">68</td><td>Pleasure and Pain</td></tr>
+    <tr id="idea-69"><td class="number-column">69</td><td>Poetry</td></tr>
+    <tr id="idea-70"><td class="number-column">70</td><td>Principle</td></tr>
+    <tr id="idea-71"><td class="number-column">71</td><td>Progress</td></tr>
+    <tr id="idea-72"><td class="number-column">72</td><td>Prophecy</td></tr>
+    <tr id="idea-73"><td class="number-column">73</td><td>Prudence</td></tr>
+    <tr id="idea-74"><td class="number-column">74</td><td>Punishment</td></tr>
+    <tr id="idea-75"><td class="number-column">75</td><td>Quality</td></tr>
+    <tr id="idea-76"><td class="number-column">76</td><td>Quantity</td></tr>
+    <tr id="idea-77"><td class="number-column">77</td><td>Reasoning</td></tr>
+    <tr id="idea-78"><td class="number-column">78</td><td>Relation</td></tr>
+    <tr id="idea-79"><td class="number-column">79</td><td>Religion</td></tr>
+    <tr id="idea-80"><td class="number-column">80</td><td>Revolution</td></tr>
+    <tr id="idea-81"><td class="number-column">81</td><td>Rhetoric</td></tr>
+    <tr id="idea-82"><td class="number-column">82</td><td>Same and Other</td></tr>
+    <tr id="idea-83"><td class="number-column">83</td><td>Science</td></tr>
+    <tr id="idea-84"><td class="number-column">84</td><td>Sense</td></tr>
+    <tr id="idea-85"><td class="number-column">85</td><td>Sign and Symbol</td></tr>
+    <tr id="idea-86"><td class="number-column">86</td><td>Sin</td></tr>
+    <tr id="idea-87"><td class="number-column">87</td><td>Slavery</td></tr>
+    <tr id="idea-88"><td class="number-column">88</td><td>Soul</td></tr>
+    <tr id="idea-89"><td class="number-column">89</td><td>Space</td></tr>
+    <tr id="idea-90"><td class="number-column">90</td><td>State</td></tr>
+    <tr id="idea-91"><td class="number-column">91</td><td>Temperance</td></tr>
+    <tr id="idea-92"><td class="number-column">92</td><td>Theology</td></tr>
+    <tr id="idea-93"><td class="number-column">93</td><td>Time</td></tr>
+    <tr id="idea-94"><td class="number-column">94</td><td>Truth</td></tr>
+    <tr id="idea-95"><td class="number-column">95</td><td>Tyranny</td></tr>
+    <tr id="idea-96"><td class="number-column">96</td><td>Universal and Particular</td></tr>
+    <tr id="idea-97"><td class="number-column">97</td><td>Virtue and Vice</td></tr>
+    <tr id="idea-98"><td class="number-column">98</td><td>War and Peace</td></tr>
+    <tr id="idea-99"><td class="number-column">99</td><td>Wealth</td></tr>
+    <tr id="idea-100"><td class="number-column">100</td><td>Will</td></tr>
+    <tr id="idea-101"><td class="number-column">101</td><td>Wisdom</td></tr>
+    <tr id="idea-102"><td class="number-column">102</td><td>World</td></tr>
+  </table>
   <!-- <span style="color:black; font-weight: bold;">Truth</span> -->
 </details>
 <br>
 
 ## Great Books
-<b>"Western Civilization is the civilization of the dialogue or the symposium, which is the great conversation in the great books about the great ideas." -- Mortimer Adler</b>
-<br>
+<div style="text-align: center;">
+  <p><em>"Western Civilization is the civilization of the dialogue or the symposium, which is the great conversation in the great books about the great ideas." -- Mortimer Adler</em></p>
+</div>
+
+  This section contains the selection of books curated by Adler and published by the Encyclopaedia Britannica originally in 1952 as the [Great Books of the Western World](https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World). The original editors had three criteria for each book: "the book must be relevant to contemporary matters, and not only important in its historical context; it must be rewarding to re-read repeatedly with respect to liberal education; and it must be part of 'the great conversation about the great ideas', relevant to at least 25 of the 102  Great Ideas." This list is from the second publication in 1990. 
+
 <details>
   <summary>The Great Books of the Western World</summary>
     <!-- <li><span class="expandable" onclick="toggleContent('iliad-content')">Iliad - Homer</span>
@@ -565,8 +741,10 @@ Inspired by my profound sense of ignorance about the most important things in li
 <br>
 
 ## Great Music 
-<b>"Every great work of art has two faces: one toward its own time and one toward the future, toward eternity." -- Daniel Barenboim</b>
-<br>
+<div style="text-align: center;">
+ <p><em>"Every great work of art has two faces: one toward its own time and one toward the future, toward eternity." - Daniel Barenboim</em></p>
+</div>
+  <p>This section features a curated list of great classical music that has stood the test of time and continues to inspire future generations.</p>
 <details>
   <summary>A Curated List of Great Classical Music</summary>
   <li>Coming Soon</li>

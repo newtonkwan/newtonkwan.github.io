@@ -4,11 +4,12 @@ title: Bookshelf
 permalink: /reading/
 ---
 
-Last Updated: Jan. 16, 2025
+Last Updated: Jan. 22, 2025
 
 Below are some books I've read or like but is by no means comprehensive. To see that and what I'm currently reading, I occasionally update my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). There is almost always something in progress from the [Western Canon](https://newtonkwan.com/westerncanon/).
 
 Would highly recommend (*)
+- Stories of Your Life and Others by Ted Chiang*
 - Exhalation: Stories by Ted Chiang*
 - The Lifecycle of Software Objects by Ted Chiang*
 - Absolutely on Music by Haruki Murakami

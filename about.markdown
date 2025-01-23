@@ -7,21 +7,24 @@ I am a Software Engineer working on [AI/ML](https://gsk.ai/) for drug discovery 
 
 Like my background, my interests are broad. Current high level projects include:
 
-- machine learning, particularly reinforcement learning, open-endedness, and AI for drug discovery 
+- productionizing machine learning models for improving early stage drug discovery 
+- building cloud native data ingestion tools for engineers
+- reading the Great Books of the Western World
 
 I have done earlier work in:
 
-- reinforcement learning for social dilemmas 
+- deep reinforcement learning for social dilemmas 
 - building data pipelines for large corpuses of data
 - effects of supernova neutrinos on dark matter detectors
 - direct dark matter detection at the Large Hadron Collider (LHC)
 
 ## Projects
-Last Updated: Dec. 22, 2024
-
 I want to help develop artificial intelligence to solve important problems.  Projects help me hone my skills in software engineering, machine learning, and different tools.
 - [PAX](https://github.com/ucl-dark/pax): Scalable Opponent Shaping Experiments in JAX. [[Paper](https://arxiv.org/abs/2312.12568)] [[Website](https://sites.google.com/view/scale-os/)] [[Code](https://github.com/ucl-dark/pax)]
 - [Velma](https://github.com/newtonkwan/Velma): Data pipelines for writing abstracts in your academic field. [[Code](https://github.com/newtonkwan/Velma)]
+
+## Awards 
+- NeurIPS Top Reviewer (~7% awarded, 2024)
 
 ## Contact
 Newton Kwan
