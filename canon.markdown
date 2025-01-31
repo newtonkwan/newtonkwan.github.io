@@ -3,7 +3,7 @@ layout: page
 title: Western Canon
 permalink: /westerncanon/
 ---
-Last Updated: Jan. 22, 2025
+Last Updated: Jan. 30, 2025
 
 <style>
   .expandable {
@@ -81,14 +81,14 @@ Last Updated: Jan. 22, 2025
 <script>
   function toggleContent(id) {
     var content = document.getElementById(id);
-    if (content.style.display === "none") {
+    if (content.style.display === "none" || content.style.display === "") {
       content.style.display = "block";
     } else {
       content.style.display = "none";
     }
   }
 
-    // Function to open the review if the URL contains a hash
+  // Function to open the review if the URL contains a hash
   function openReviewFromHash() {
     var hash = window.location.hash.substring(1); // Remove the '#' from the hash
     if (hash) {
@@ -100,8 +100,24 @@ Last Updated: Jan. 22, 2025
     }
   }
 
-  // Call the function when the page loads
+  // Example variable indicating completed books
+  var completedBooks = [1, 2]; // Add the numbers of completed books here
+
   document.addEventListener("DOMContentLoaded", function() {
+    // var completedCountBooks = completedBooks.length;
+    // var totalBooks = 100;
+    // var progressPercentageBooks = (completedCountBooks / totalBooks) * 100;
+
+    // document.getElementById('completed-count-books').innerText = completedCountBooks;
+    // document.getElementById('progress-bar-books').style.width = progressPercentageBooks + '%';
+
+    // completedBooks.forEach(function(bookNumber) {
+    //   var row = document.getElementById("book-" + bookNumber);
+    //   if (row) {
+    //     row.classList.add("completed");
+    //   }
+    // });
+
     openReviewFromHash();
   });
 </script>
@@ -342,9 +358,9 @@ Inspired by my profound sense of ignorance about the most important things in li
         Last updated: January 30, 2025
         <p> Few classics are referenced as highly and widely as Plato's Republic. Even amongst the Great Books, this work
         stands as one of Western Civilization's champions; no discourse in philosophy nor on the topic of justice can 
-        be complete without reference to Plato and the Republic. I am struck most by two of its stories.
-        The first is the famous Allegory of the Cave, where Socrates instructs that we are like prisoners in a cave looking at the shadows of reality. He affirms that to know the truth is to ascend outside into the blinding light, and that those that do so, should return to the cave to instruct those who cannot ascend. The second story is the lesser known Myth of Er. It details the story of Er, a messenger chosen by the gods to relay the judgement of the just and unjust, the souls' choosing of lots for the next life, and the importance of developing the ability to discern the good life. In this epic conclusion, we are reminded of what life the great hero Odysseus of the Bronze Age would choose: </p>
-        <i>"Now it chanced that Odysseus' soul drew the last lot of all, and came to make its choice. Remembering its former sufferings, it rejected the love of honor, and went around for a long time looking for a life of a private individual who did his own work, and with difficulty found one lying off somewhere neglected by the others. When he saw it, it said that it would have done the same even if it had drawn the first-place lot, and chose it gladly."</i>
+        be complete without reference to its ideas. This is no surprise. Like was famously said by Alfred Whitehead: "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato." </p>
+        <p>I am struck most by two of the Republic's stories. The first is the famous Allegory of the Cave, where Socrates instructs that we are like prisoners in a cave looking at the shadows of reality. He affirms that to know the truth is to ascend outside into the blinding light, and that those that do so, should return to the cave to instruct those who cannot ascend. The second story is the lesser known Myth of Er. It details the story of Er, a messenger chosen by the gods to relay the judgment of the just and unjust, the souls' choosing of lots for the next life, and the importance of developing the ability to discern the good life. In this epic conclusion, we are reminded of what life the great hero Odysseus of the Bronze Age would choose: </p>
+        <p style="margin-left:8%;"> <i>"Now it chanced that Odysseus' soul drew the last lot of all, and came to make its choice. Remembering its former sufferings, it rejected the love of honor, and went around for a long time looking for a life of a private individual who did his own work, and with difficulty found one lying off somewhere neglected by the others. When he saw it, it said that it would have done the same even if it had drawn the first-place lot, and chose it gladly."</i></p>
       </div>
     </li>
     <li>Timaeus - Plato</li>
