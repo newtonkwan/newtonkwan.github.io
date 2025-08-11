@@ -5,7 +5,7 @@
 layout: home
 ---
 # Welcome
-Hi, this is Newton. I document my learnings here. If you like what I do, please reach out! 
+Hi, my name is Newton. You can learn about me here. 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
@@ -21,7 +21,8 @@ Hi, this is Newton. I document my learnings here. If you like what I do, please 
   .strava-badge-follow { height: 32px; width: 32px; background: url(//badges.strava.com/echelon-sprite-32.png) no-repeat 0 0; position: relative; top: -7px; }
 </style>
 <a href="https://strava.com/athletes/124664359" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-32.png" alt="Strava" /></a>
-  <a href="https://buymeacoffee.com/newtonkwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="115" style="margin-top: -13px;"> </a>
+
+<!-- <a href="https://buymeacoffee.com/newtonkwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="115" style="margin-top: -13px;"> </a> -->
 </div>
 
 
