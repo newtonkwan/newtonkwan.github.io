@@ -18,7 +18,7 @@ Now, I have been training for just over one year for my third marathon: the Berl
 
 In the time between my second marathon and now, I have grown considerably as a runner in two ways: 
 
-The first way is that I'm faster. The same runs I did in the summer 2024 are now both faster pace and at a lower heart rate. In short, I'm just more fit than I was one year ago. I have a coach and this helps. 
+The first way is that I'm faster. The same runs I did in the summer 2024 are now both faster pace and at a lower heart rate. In short, I'm more fit than I was one year ago. I have a coach and this helps. 
 
 The second way is that I now have an entire village of supporters, both runners and non-runners. Roughly speaking, this village has grown from <5 people before marathon #2 to almost 50 people, many of who watch my progress daily and are anticipating the results of my attempt at running under 3:00. This, unsurprisingly, elevates the sport of running above just yourself and allows you to do things you probably could never do yourself (or at least it would be a lot harder).
 
