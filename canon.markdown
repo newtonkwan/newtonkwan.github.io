@@ -48,7 +48,7 @@ Last Updated: Jan. 30, 2025
   
 </style>
 
-<script>
+<!-- <script>
   function toggleContent(id) {
     var content = document.getElementById(id);
     if (content.style.display === "none") {
@@ -76,7 +76,7 @@ Last Updated: Jan. 30, 2025
       }
     });
   });
-</script>
+</script> -->
 
 <script>
   function toggleContent(id) {
