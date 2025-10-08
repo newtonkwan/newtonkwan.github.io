@@ -4,12 +4,14 @@ title: Bookshelf
 permalink: /reading/
 ---
 
-Last Updated: Aug. 10, 2025
+Last Updated: Oct. 7, 2025
 
 Below are some books I've read or like but is by no means comprehensive. To see that and what I'm currently reading, I occasionally update my [Goodreads](https://www.goodreads.com/user/show/68725952-newton). There is almost always something in progress from the [Western Canon](https://newtonkwan.com/westerncanon/).
 
 Highly recommend (*)
 Re-read (†)
+- Persuasion by Jane Austen
+- Northanger Abbey by Jane Austen
 - Project Hail Mary by Andy Weir
 - Mansfield Park by Jane Austen
 - Sense and Sensibility by Jane Austen
