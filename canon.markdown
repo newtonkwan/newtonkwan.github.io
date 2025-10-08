@@ -131,12 +131,12 @@ Inspired by my profound sense of ignorance about the most important things in li
 
   This section contains the 102 essays written by Mortimer Adler contained in the preface of each section of the Syntopicon, a two volume index billed as a guide to the most important ideas, and contained as part of the Great Books of the Western World collection.  In Adler's words, the ideas that are "the focal points of maximum human interest and importance in every era and epoch and in every generation are the great ideas." 
 
-<div style="text-align: center;"> 
+<!-- <div style="text-align: center;"> 
   <p style="font-size: 24px;">Completed: <span id="completed-count">0</span> / 102</p>
     <div style="width: 100%; background-color: #e0e0e0; border-radius: 25px;">
     <div id="progress-bar" style="width: 0%; height: 30px; background-color: #4caf50; border-radius: 25px;"></div>
   </div>
-</div>
+</div> -->
    
 <details>
   <summary>Essays on the 102 Great Ideas </summary>
