@@ -16,7 +16,7 @@ Now, I have been training for just over one year for my third marathon: the Berl
 
 ### Where am I today?
 
-In the time between my second marathon and now, I have grown in a considerable number of ways. 
+In the time between my second marathon and now, I have grown considerably as a runner in two ways: 
 
 The first way is that I'm faster. The same runs I did in the summer 2024 are now both faster pace and at a lower heart rate. In short, I'm just more fit than I was one year ago. I have a coach and this helps. 
 
