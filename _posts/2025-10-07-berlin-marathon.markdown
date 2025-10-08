@@ -31,7 +31,7 @@ There were four major contributing factors:
 3. Overfueling during the race which caused stomach issues and cramping. 
 4. Mental pressure to perform well and eroding confidence throughout the race. 
 
-The first factor was uncontrollable. 
+The first factor was uncontrollable. It was also the most significant. 
 
 The second factor was tricky because I had already taken many health precautions (wearing a mask, sleeping on the plane, eating foods I was used to, doing minimal site seeing, light running). So even in hindsight, there isn't much I would have done differently. 
 
