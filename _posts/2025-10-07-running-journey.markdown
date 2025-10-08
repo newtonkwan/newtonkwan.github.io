@@ -18,7 +18,7 @@ Now, I have been training for just over one year for my third marathon: the Berl
 
 In the time between my second marathon and now, I have grown in a considerable number of ways. 
 
-The first way is that I'm obviously faster. The same runs I did in the Summer 2024 are now both faster pace and at a lower heart rate. In short, I'm just more fit than I was one year ago. I have a coach and this helps. 
+The first way is that I'm faster. The same runs I did in the summer 2024 are now both faster pace and at a lower heart rate. In short, I'm just more fit than I was one year ago. I have a coach and this helps. 
 
 The second way is that I now have an entire village of supporters, both runners and non-runners. Roughly speaking, this village has grown from <5 people before marathon #2 to almost 50 people, many of who watch my progress daily and are anticipating the results of my attempt at running under 3:00. This, unsurprisingly, elevates the sport of running above just yourself and allows you to do things you probably could never do yourself (or at least it would be a lot harder).
 
@@ -26,10 +26,10 @@ The second way is that I now have an entire village of supporters, both runners 
 Unfortunately, the race did not go well. I completed the race in 3:52:04, which is 6 minutes slower than my PB and ~40 minutes slower than I (and my coach) expected. 
 
 There were four major contributing factors: 
-1. the temperature was a blistering 79 F (26 C), where typical average temperatures range in the low 60s
-2. my body was battling a cold about ~4 days prior to the race that continued through the rest of my trip
-3. overfueling during the race which caused stomach issues and cramping
-4. mental pressure to perform well and eroding confidence throughout the race
+1. The temperature was a blistering 79 F (26 C), where typical average temperatures range in the low 60s. 
+2. My body was battling a cold about ~4 days prior to the race that continued through the rest of my trip. 
+3. Overfueling during the race which caused stomach issues and cramping. 
+4. Mental pressure to perform well and eroding confidence throughout the race. 
 
 The first factor was uncontrollable. 
 
@@ -37,10 +37,11 @@ The second factor was tricky because I had already taken many health precautions
 
 The third factor is something I will improve for my next marathon with more practice. 
 
-The fourth factor requires some unpacking. As I mentioned earlier, I have made significant progress in my physical fitness. The data is clear that I am much fitter than when I ran my 2nd marathon. I ran 1:32 half marathon in May on a hilly course with 900 ft of elevation (Berlin has only 400 ft over double the distance), which would have projected me to run a 3:20 marathon back in May. With four more months of training after that, I went into Berlin with a lot of confidence: I thought at worst I would run a 3:30, 3:15 on a good day, and 3:05 on a perfect day. I started out at a 3:20-3:25 pace and expected to feel strong in the first half, pick up the pace at the half way point, then finish strong in the last 10k, finishing around 3:15. My past two marathons have gone this way, and I expected Berlin to be the same. However, as things started to go south, I wasn't prepared for the drastic adjustments needed during the race. Seeing the 3:30 pace group go by and then the 3:45 pace group really killed my mental state. By the end, all I wanted to do was finish. Even now, writing this blog 3 weeks later, I still haven't regained my mental confidence from Berlin.
+The fourth factor requires some unpacking. As I mentioned earlier, I have made significant progress in my physical fitness. The data is clear that I am much fitter than when I ran my 2nd marathon. I ran 1:32 half marathon in May on a hilly course with 900 ft of elevation (Berlin has only 400 ft over double the distance), which would have projected me to run a 3:20 marathon back in May. With four more months of training after that, I went into Berlin with a lot of confidence: I thought at worst I would run a 3:30, 3:15 on a good day, and 3:05 on a perfect day. I started out at a 3:20-3:25 pace and expected to feel strong in the first half, pick up the pace at the half way point, then finish strong in the last 10k, finishing around 3:15. My past two marathons have gone this way, and I expected Berlin to be the same. 
 
-# Acknowledgements
-Race performance aside, I'm grateful to have run this race with three good friends, to have friends come out from the US and UK to support me, as well as having the support of all of my family and friends back home. This was by far the hardest race I've run and I couldn't have done it without their support. As I start running again and begin to prepare for the Toyko Marathon next spring, one key area of focus will be on improving my mental game before and during the race. 
+However, as things started to go south, I wasn't prepared for the drastic adjustments needed during the race due to the weather, my own body's physical fatigue from the sickness, and the overfueling. Seeing the 3:30 pace group go by, then the 3:45 pace group really killed my mental state. By the end, all I wanted to do was finish. Even now, writing this blog 3 weeks later, I still haven't regained my mental confidence from Berlin.
+
+Race performance aside, the Berlin Marathon is a legendary race. I'm grateful to have run it with three good friends, to have friends come out from the US and UK to support me, as well as having the support of all of my family and friends back home. This was by far the hardest race I've run, and I couldn't have done it without their support. As I start running again and begin to prepare for the Toyko Marathon next spring, one key area of focus will be on preparing the mental for anything to happen on race day. 
 
 
 
