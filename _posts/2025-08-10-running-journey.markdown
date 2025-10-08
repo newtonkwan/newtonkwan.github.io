@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Berlin Marathon"
+date:   2025-10-07 12:00:00 -0800
+categories: running
+published: true
+---
+After the Berlin Marathon, I reflect on my running journey.
+
+### How did I get here? 
+
+In 2023, I ran my first marathon in 4:59; in 2024, I ran my second marathon in 3:46.  I trained for just under four months for my first and just under 5 months for my second. The results are clear: a little bit of training, no matter where you start from, takes you a long way. In the first case, from couch to marathon; in the second case, a 1hr 13min improvement. I have never run competitively prior.
+
+Now, I have been training for just over one year for my third marathon: the Berlin Marathon. This will be my first international race and the first one I will run with people that I know (shoutout to Jiahui, Jimmy, and Deb). For the non-marathon folks, the Berlin Marathon is an Abbot World Marathon Major (one of seven) and is considered one of the best courses in the world, attracting over 50,000 people in 2024 including the world's most elite runners like Eliud Kipchoge. To say it's a big event is an understatement. 
+
+
+### Where am I today?
+
+In the time between my second marathon and now, I have grown in a considerable number of ways. 
+
+The first way is that I'm obviously faster. The same runs I did in the Summer 2024 are now both faster pace and at a lower heart rate. In short, I'm just more fit than I was one year ago. I have a coach and this helps. 
+
+The second way is that I now have an entire village of supporters, both runners and non-runners. Roughly speaking, this village has grown from <5 people before marathon #2 to almost 50 people, many of who watch my progress daily and are anticipating the results of my attempt at running under 3:00. This, unsurprisingly, elevates the sport of running above just yourself and allows you to do things you probably could never do yourself (or at least it would be a lot harder).
+
+### How did the race go? 
+Unfortunately, the race did not go well. I completed the race in 3:52:04, which is 6 minutes slower than my PB and ~40 minutes slower than I (and my coach) expected. 
+
+There were four major contributing factors: 
+1. the temperature was a blistering 79 F (26 C), where typical average temperatures range in the low 60s
+2. my body was battling a cold about ~4 days prior to the race that continued through the rest of my trip
+3. overfueling during the race which caused stomach issues and cramping
+4. mental pressure to perform well and eroding confidence throughout the race
+
+The first factor was uncontrollable. 
+
+The second factor was tricky because I had already taken many health precautions (wearing a mask, sleeping on the plane, eating foods I was used to, doing minimal site seeing, light running). So even in hindsight, there isn't much I would have done differently. 
+
+The third factor is something I will improve for my next marathon with more practice. 
+
+The fourth factor requires some unpacking. As I mentioned earlier, I have made significant progress in my physical fitness. The data is clear that I am much fitter than when I ran my 2nd marathon. I ran 1:32 half marathon in May on a hilly course with 900 ft of elevation (Berlin has only 400 ft over double the distance), which would have projected me to run a 3:20 marathon back in May. With four more months of training after that, I went into Berlin with a lot of confidence: I thought at worst I would run a 3:30, 3:15 on a good day, and 3:05 on a perfect day. I started out at a 3:20-3:25 pace and expected to feel strong in the first half, pick up the pace at the half way point, then finish strong in the last 10k, finishing around 3:15. My past two marathons have gone this way, and I expected Berlin to be the same. However, as things started to go south, I wasn't prepared for the drastic adjustments needed during the race. Seeing the 3:30 pace group go by and then the 3:45 pace group really killed my mental state. By the end, all I wanted to do was finish. Even now, writing this blog 3 weeks later, I still haven't regained my mental confidence from Berlin.
+
+# Acknowledgements
+Race performance aside, I'm grateful to have run this race with three good friends, to have friends come out from the US and UK to support me, as well as having the support of all of my family and friends back home. This was by far the hardest race I've run and I couldn't have done it without their support. As I start running again and begin to prepare for the Toyko Marathon next spring, one key area of focus will be on improving my mental game before and during the race. 
+
+
+
