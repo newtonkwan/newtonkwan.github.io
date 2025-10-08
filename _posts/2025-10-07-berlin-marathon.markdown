@@ -41,7 +41,9 @@ The fourth factor requires some unpacking. As I mentioned earlier, I have made s
 
 However, as things started to go south, I wasn't prepared for the drastic adjustments needed during the race due to the weather, my own body's physical fatigue from the sickness, and the overfueling. Seeing the 3:30 pace group go by and then the 3:45 pace group killed my mental state. By the end, all I wanted to do was finish. Even now, writing this blog 3 weeks after the race, I still haven't fully regained my confidence. 
 
-Race performance aside, the Berlin Marathon is a legendary race. I'm grateful to have run it with three good friends, to have friends come out from the US and UK to support me, as well as having the support of all of my family and friends back home. This was by far the hardest race I've run, and I couldn't have done it without their support. As I start running again and begin to prepare for the Toyko Marathon next spring, I will be focusing on improving my fueling strategy and preparing myself for anything to happen on race day. 
+Race performance aside, the Berlin Marathon is a legendary race. I'm grateful to have run it with three good friends, to have friends come out from the US and UK to support me, as well as having the support of all of my family and friends back home. This was by far the hardest race I've run (the first 10/10 difficulty run on my Garmin), and I couldn't have done it without their support. As I start running again and begin to prepare for the Toyko Marathon next spring, I will be focusing on improving my fueling strategy and preparing myself for anything to happen on race day. 
+
+See you at the start line in Toyko!
 
 
 
