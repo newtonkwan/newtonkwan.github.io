@@ -9,7 +9,7 @@ After the Berlin Marathon, I reflect on my running journey.
 
 ### How did I get here? 
 
-In 2023, I ran my first marathon in 4:59; in 2024, I ran my second marathon in 3:46.  I trained for just under four months for my first and just under 5 months for my second. The results are clear: a little bit of training, no matter where you start from, takes you a long way. In the first case, from couch to marathon; in the second case, a 1hr 13min improvement. I have never run competitively prior.
+In 2023, I ran my first marathon in 4:59; in 2024, I ran my second marathon in 3:46.  I trained for just under four months for my first and just under five months for my second. The results are clear: a little bit of training, no matter where you start from, takes you a long way. In the first case, from couch to marathon; in the second case, a 1hr 13min improvement. I have never run competitively prior.
 
 Now, I have been training for just over one year for my third marathon: the Berlin Marathon. This will be my first international race and the first one I will run with people that I know (shoutout to Jiahui, Jimmy, and Deb). For the non-marathon folks, the Berlin Marathon is an Abbot World Marathon Major (one of seven) and is considered one of the best courses in the world, attracting over 50,000 people in 2024 including the world's most elite runners like Eliud Kipchoge. To say it's a big event is an understatement. 
 
