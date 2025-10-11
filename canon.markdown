@@ -122,7 +122,7 @@ Last Updated: Jan. 30, 2025
   });
 </script>
 
-Inspired by my profound sense of ignorance about the most important things in life, this project chronicles my participation in the great conversation in Western Civilization, so that I may understand where we have been and may then hopefully understand more wisely and empathetically where we are and where we are going. 
+Inspired by my profound sense of ignorance about the most important things in life, this project documents my participation in the great conversation in Western Civilization, so that I may better understand where we have been, where we are presently, and where we are going.
 
 ## Great Ideas 
 <div style="text-align: center;">
