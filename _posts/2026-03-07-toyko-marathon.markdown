@@ -7,7 +7,7 @@ published: true
 ---
 After the Toyko Marathon, I reflect on my running journey. 
 
-## POst Berlin
+## Post Berlin
 There were exactly 161 days between the Berlin Marathon and the Toyko Marathon. If you read my previous post about the Berlin Marathon, you will know that I underperformed and struggled to return to running. 
 
 This is not the first time I have tried to run the Tokyo Marathon. I entered the lottery for Toyko in 2024 but did not get it. This year, I entered under the One Toyko Global membership, which gave me an additional entry exclusive to those with membership in addition to the general lottery. In mid-October, I was lucky enough to get the ballot via the membership lottery. My friends Jiahui and Lin Lin did not receive entry ballots via the membership or the general lottery. However, Jiahui got off the waitlist in November (which changed her skiing plans in Niseko). It seems that our marathon journeys have been intertwined, both of us racing for our second star of seven world majors in Toyko (we both received our first star in Berlin last year). 
