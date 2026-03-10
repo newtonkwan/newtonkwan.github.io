@@ -41,7 +41,7 @@ Other things that didn't go my way are that I got sick AGAIN. On Thursday on the
 There was also a heat warning (again) for the Toyko Marathon. Thankfully, it was only 62F/16C, which is warm but not insanely warm like it was in Berlin (79F/26C). Had it been cooler like it normally would be (~50F) and with a healthy body, I'm positive that I could have performed better, perhaps 15 seconds faster per mile and also not died the last three miles.
 
 My takeaways from this race are: 
-- Bring a little more fire to the training and race day. I think I swung too far towards the "fun run" mentality. 
+- Bring a little more fire to the training and race day. I think I swung too far towards the "fun run" mentality, and I want to push myself to be better. 
 - Expect that training over the holidays will be hard and the races at the beginning of the year are hard.  
 - Know exactly what the plan will be months before the race. This means knowing what pace I can expect. 
 - Although my strategy seems reasonable, I think I could likely smooth out the pacing more evenly.
